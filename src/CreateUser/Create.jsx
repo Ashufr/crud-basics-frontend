@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import axios from "axios"
-axios.defaults.baseURL = "hhttps://crud-basics-backend-q94de3zmv-harashishs-projects.vercel.app";
+axios.defaults.baseURL = "https://crud-basics-backend.vercel.app";
 import { useNavigate } from "react-router-dom";
 
 const Create = () => {
